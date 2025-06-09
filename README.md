@@ -13,4 +13,4 @@ Builds clean, fast, and lead-generating websites using WordPress — the platfor
 Whether you’re a coach, freelancer, or small business owner, a simple, good-looking website could be the missing piece between scrolls and sales.
 
 Want one?
-go to <a href="https://webxolve">WebXolve</a> and I’ll connect you directly.
+go to <a href="https://webxolve.com">WebXolve</a> and I’ll connect you directly.
