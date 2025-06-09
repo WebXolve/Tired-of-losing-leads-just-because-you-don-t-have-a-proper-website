@@ -1,4 +1,4 @@
-# Tired-of-losing-leads-just-because-you-don-t-have-a-proper-website
+# Tired of losing leads just because you don't have a proper website
 
 Let’s face it – in today’s world, if your business isn’t online, you’re already behind.
 
